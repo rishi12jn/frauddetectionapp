@@ -1,4 +1,4 @@
-package com.finance.frauddetection.controllers;
+package com.finance.frauddetection.contollers;
 
 import org.springframework.web.bind.annotation.*;
 

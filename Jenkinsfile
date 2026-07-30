@@ -3,7 +3,7 @@ pipeline {
     agent any
 
     environment {
-        GIT_URL = 'https://github.com/rishi12jn/frauddetectionapp.git'
+        GIT_URL = 'https://github.com/rishi12jn/frauddetectionapp.git',
         BRANCH = 'main'
     }
 
